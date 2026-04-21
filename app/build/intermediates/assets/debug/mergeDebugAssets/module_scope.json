@@ -1,0 +1,13 @@
+{
+  "description": "Modificación de barra de estado y telefonía",
+  "scope": [
+    "com.android.systemui",
+    "com.android.settings",
+    "com.android.phone",
+    "com.android.stk",
+    "com.android.server.telecom",
+    "com.android.mms.service",
+    "com.mediatek.ims",
+    "android"
+  ]
+}

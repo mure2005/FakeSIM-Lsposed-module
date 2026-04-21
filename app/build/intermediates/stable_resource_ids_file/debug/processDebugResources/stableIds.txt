@@ -1,0 +1,7 @@
+com.statusbarmod.hook:xml/scope = 0x7f050001
+com.statusbarmod.hook:xml/arrays = 0x7f050000
+com.statusbarmod.hook:mipmap/ic_launcher = 0x7f020000
+com.statusbarmod.hook:string/app_name = 0x7f030000
+com.statusbarmod.hook:style/AppTheme = 0x7f040000
+com.statusbarmod.hook:array/xposedscope = 0x7f010001
+com.statusbarmod.hook:array/xposed_scope = 0x7f010000

@@ -1,0 +1,27 @@
+plugins {
+    id 'com.android.application'
+}
+android {
+    namespace 'com.statusbarmod.hook'
+    compileSdk 35
+    buildToolsVersion "35.0.0"
+    defaultConfig {
+        applicationId "com.statusbarmod.hook"
+        minSdk        29
+        targetSdk     35
+        versionCode   2
+        versionName   "2.0"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    buildTypes {
+        release { minifyEnabled false; shrinkResources false }
+    }
+    lint { disable 'ManifestOrder'; abortOnError false }
+}
+dependencies {
+    // Esto permite que el IDE reconozca XposedHelpers, IXposedHookLoadPackage, etc.
+    compileOnly 'de.robv.android.xposed:api:82'
+}

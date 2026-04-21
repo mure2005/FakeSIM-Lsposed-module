@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposedscope">
+        <item>com.android.systemui</item>
+        <item>android</item>
+        <item>com.android.phone</item>
+        <item>com.android.stk</item>
+        <item>com.android.server.telecom</item>
+        <item>com.android.mms.service</item>
+        <item>com.android.settings</item>
+        <item>com.mediatek.ims</item>
+    </string-array>
+</resources>

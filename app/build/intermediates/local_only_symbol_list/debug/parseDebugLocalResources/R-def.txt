@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+array xposed_scope
+array xposedscope
+mipmap ic_launcher
+string app_name
+style AppTheme
+xml arrays
+xml scope

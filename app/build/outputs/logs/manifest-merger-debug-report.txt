@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:3:5-26:19
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:3:5-26:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:4:9-41
+	android:icon
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:5:9-43
+	android:allowBackup
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:7:9-40
+meta-data#xposedmodule
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:9:9-76
+	android:value
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:9:53-73
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:9:20-47
+meta-data#xposedminversion
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:10:9-74
+	android:value
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:10:53-71
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:10:20-51
+meta-data#xposeddescription
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:11:9-127
+	android:value
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:11:53-124
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:11:20-52
+meta-data#xposedscope
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:13:9-15:54
+	android:resource
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:15:13-51
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:14:13-39
+activity#com.statusbarmod.hook.ui.SettingsActivity
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:18:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Minerva\Documents\StatusBarMinenet_final\StatusBarMinenet\app\src\main\AndroidManifest.xml

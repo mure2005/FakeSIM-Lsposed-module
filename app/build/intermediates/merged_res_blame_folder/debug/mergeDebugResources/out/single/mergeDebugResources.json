@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/xml_arrays.xml.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/xml/arrays.xml"
+    },
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.statusbarmod.hook.app-debug-4:/xml_scope.xml.flat",
+        "source": "com.statusbarmod.hook.app-main-6:/xml/scope.xml"
+    }
+]
