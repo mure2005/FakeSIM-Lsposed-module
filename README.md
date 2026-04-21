@@ -14,7 +14,7 @@ It works across multiple Android versions and ROMs, including MIUI.
 
 ## ⚙️ Compatibility
 
-- ✅ Android 10 → Android 14  
+- ✅ Android 10 → Android 14 (crdroid with Android 11 not works, systemUI crash)
 - ✅ MIUI 12.0 / 12.5  
 - ⚠️ Android 15+ → Not supported (breaking changes)
 
@@ -99,7 +99,7 @@ Developed by **Pacuwu**
 
 ## ⚙️ Compatibilidad
 
-- ✅ Android 10 → Android 14  
+- ✅ Android 10 → Android 14 (crdroid con Android 11 no funciona, crashea systemUI)
 - ✅ MIUI 12.0 / 12.5  
 
 ---
