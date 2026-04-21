@@ -61,7 +61,13 @@ This project is intended **only for:**
 ❌ It must NOT be used to:
 - bypass carrier restrictions  
 - spoof identity in services  
-- trick apps requiring a real SIM  
+- trick apps requiring a real SIM
+
+- ## ⚠️ Known Issues
+
+- ❗ On some crDroid builds, **SystemUI may crash**
+- 📶 On certain ROMs, the signal may appear as **VoWiFi instead of VoLTE**
+  
 
 **The author is not responsible for misuse of this module.**
 
@@ -133,7 +139,12 @@ Archivos:
 > 🚫 Este módulo NO proporciona acceso a redes reales  
 > 🚫 NO permite llamadas reales  
 > 📡 La cobertura mostrada es solo señal de emergencia/SOS  
-> 🎭 Todo es completamente estético  
+> 🎭 Todo es completamente estético
+
+## ⚠️ Problemas conocidos
+
+- ❗ En algunas versiones de crDroid, **SystemUI puede crashear**
+- 📶 En ciertas ROMs, la señal puede mostrarse como **VoWiFi en lugar de VoLTE**
 
 Uso exclusivo para:
 
