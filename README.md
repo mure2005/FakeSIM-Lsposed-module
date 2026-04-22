@@ -51,6 +51,7 @@ Customize carrier and number manually:
 > 🚫 It does NOT allow real calls or SMS  
 > 📡 Signal shown is only from emergency/SOS antenna detection  
 > 🎭 Everything is purely visual and simulated  
+> ⚠️ At least one SIM card without service or blocked is required to activate the modem
 
 This project is intended **only for:**
 
@@ -140,6 +141,7 @@ Archivos:
 > 🚫 NO permite llamadas reales  
 > 📡 La cobertura mostrada es solo señal de emergencia/SOS  
 > 🎭 Todo es completamente estético
+> ⚠️ Se requiere minimo una SIM sin servicio o bloqueada para activar el módem
 
 ## ⚠️ Problemas conocidos
 
