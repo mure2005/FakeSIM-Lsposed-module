@@ -1,6 +1,6 @@
 # 🚀 FakeSIM - LSPosed Module
 
-![Android](https://img.shields.io/badge/Android-10--14-green)
+![Android](https://img.shields.io/badge/Android-10--13-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
@@ -14,9 +14,9 @@ It works across multiple Android versions and ROMs, including MIUI.
 
 ## ⚙️ Compatibility
 
-- ✅ Android 10 → Android 14 (crdroid with Android 11 not works, systemUI crash)
+- ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
 - ✅ MIUI 12.0 / 12.5  
-- ⚠️ Android 15+ → Not supported (breaking changes)
+- ⚠️ Android 14+ → Not supported (breaking changes)
 
 ---
 
@@ -77,7 +77,7 @@ This project is intended **only for:**
 ## 🧠 Technical Notes
 
 - Hooks system-level telephony behavior using LSPosed  
-- Designed for stability across Android 10–14  
+- Designed for stability across Android 10–13  
 - Does NOT interact with real network services  
 
 ---
@@ -86,7 +86,7 @@ This project is intended **only for:**
 
 - VoLTE icon spoof works only on Android 11  
 - Behavior may vary between ROMs (MIUI / AOSP)  
-- Android 15+ introduces breaking changes  
+- Android 14+ introduces breaking changes  
 
 ---
 
@@ -106,9 +106,9 @@ Developed by **Pacuwu**
 
 ## ⚙️ Compatibilidad
 
-- ✅ Android 10 → Android 14 (crdroid con Android 11 no funciona, crashea systemUI)
+- ✅ Android 10 → Android 13 (crdroid con Android 11 no funciona, crashea systemUI)
 - ✅ MIUI 12.0 / 12.5  
-
+- ⚠️ Android 14+ introduce cambios que rompen el hook
 ---
 
 ## 🧪 Funciones
