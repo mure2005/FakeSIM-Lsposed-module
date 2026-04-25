@@ -1,6 +1,9 @@
 # 🚀 FakeSIM - LSPosed Module
 
-![Android](https://img.shields.io/badge/Android-10--13-green)
+![Android]
+(https://img.shields.io/badge/Android-10--13-green)
+![MIUI]
+(https://img.shields.io/badge/Compatible-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
