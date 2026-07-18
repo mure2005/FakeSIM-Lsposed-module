@@ -1,6 +1,7 @@
 # 🚀 FakeSIM - LSPosed Module
 
 ![Android](https://img.shields.io/badge/Android-10--13-green)
+![Android](https://img.shields.io/badge/Android-14-yellow) (in some ROMs)
 ![MIUI](https://img.shields.io/badge/MIUI-Compatible-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
@@ -17,7 +18,7 @@ It works across multiple Android versions and ROMs, including MIUI.
 
 - ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
 - ✅ MIUI 
-- ⚠️ Android 14+ → Not supported (breaking changes)
+- ⚠️ Android 14+ → Not supported (breaking changes) (They do work on some Android 14 ROMs—for example, HyperOS and Yaoyoro Project.)
 
 ---
 
