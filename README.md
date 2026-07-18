@@ -3,6 +3,7 @@
 ![Android](https://img.shields.io/badge/Android-10--13-green)
 ![Android](https://img.shields.io/badge/Android-14-yellow) (in some ROMs)
 ![MIUI](https://img.shields.io/badge/MIUI-Compatible-green)
+![HyperOS](https://img.shields.io/badge/HyperOS-Compatible-green)
 ![LSPosed](https://img.shields.io/badge/LSPosed-Compatible-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
