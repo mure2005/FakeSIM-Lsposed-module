@@ -18,7 +18,8 @@ It works across multiple Android versions and ROMs, including MIUI.
 ## ⚙️ Compatibility
 
 - ✅ Android 10 → Android 13 (crdroid with Android 11 not works, systemUI crash)
-- ✅ MIUI 
+- ✅ MIUI
+- ✅ HyperOS
 - ⚠️ Android 14+ → Not supported (breaking changes) (They do work on some Android 14 ROMs—for example, HyperOS and Yaoyoro Project.)
 
 ---
@@ -94,72 +95,5 @@ This project is intended **only for:**
 ---
 
 ## ❤️ Credits
-
 Developed by **Pacuwu**
-
----
-
-# 🌍 Español
-
-## 📌 Descripción
-
-**FakeSIM** es un módulo para LSPosed que permite simular una o dos tarjetas SIM con fines visuales y de prueba.
-
----
-
-## ⚙️ Compatibilidad
-
-- ✅ Android 10 → Android 13 (crdroid con Android 11 no funciona, crashea systemUI)
-- ✅ MIUI  
-- ⚠️ Android 14+ introduce cambios que rompen el hook
----
-
-## 🧪 Funciones
-
-- 📶 Simulación de SIM desactivada o bloqueada (PIN/PUK)  
-- 📱 Soporte Dual SIM  
-- 🏷️ Operadora personalizada  
-- 🔢 Número personalizado  
-- 📡 Señal simulada (basada en SOS/emergencia)  
-- 📶 Icono VoLTE (solo Android 11)  
-- 🌍 Roaming siempre activo  
-
----
-
-## 🛠️ Configuración
-
-Ruta:
-/data/local/tmp/minenet
-
-Archivos:
-
-- `carrier`, `carrier_1`  
-- `number`, `number_1`  
-
----
-
-## ⚠️ Advertencia
-
-> 🚫 Este módulo NO proporciona acceso a redes reales  
-> 🚫 NO permite llamadas reales  
-> 📡 La cobertura mostrada es solo señal de emergencia/SOS  
-> 🎭 Todo es completamente estético
-> ⚠️ Se requiere minimo una SIM sin servicio o bloqueada para activar el módem
-
-## ⚠️ Problemas conocidos
-
-- ❗ En algunas versiones de crDroid, **SystemUI puede crashear**
-- 📶 En ciertas ROMs, la señal puede mostrarse como **VoWiFi en lugar de VoLTE**
-
-Uso exclusivo para:
-
-- 🧪 pruebas  
-- 🎓 desarrollo  
-- 📚 fines educativos  
-
-❌ No usar para:
-- evadir restricciones de operadores  
-- falsificar identidad en servicios  
-
-**El autor no se hace responsable del uso indebido.**
 
